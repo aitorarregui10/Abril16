@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d523ad9a-498d-4dd6-acf8-b6f0eef93420" name="Changes" comment="" />
+    <list default="true" id="d523ad9a-498d-4dd6-acf8-b6f0eef93420" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej3/PruebaTaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej3/PruebaTaller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej4/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej4/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej4/InformeTrimestre1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej4/InformeTrimestre1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej4/InformeTrimestre3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej4/InformeTrimestre3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej4/PruebaEmpleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej4/PruebaEmpleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/AccesoDesarrollo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/AccesoDesarrollo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/AccesoProduccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/AccesoProduccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/ClienteDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/ClienteDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/IDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/IDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/PruebaCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril16/src/main/java/com/softtek/Abril16/presentacion/ej5/PruebaCliente.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2fB0LKhveS7R1ZjIEZx0VpxKRGO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +55,7 @@
       <module name="Abril16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softtek.Abril16.presentacion.ej2.*" />
+          <option name="PATTERN" value="com.softtek.Abril16.presentacion.ej3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,7 +81,7 @@
       <module name="Abril16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softtek.Abril16.presentacion.ej2.*" />
+          <option name="PATTERN" value="com.softtek.Abril16.presentacion.ej3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,5 +135,17 @@
       <updated>1713259108455</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

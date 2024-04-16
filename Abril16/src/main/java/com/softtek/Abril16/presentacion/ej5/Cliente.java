@@ -1,15 +1,19 @@
 package com.softtek.Abril16.presentacion.ej5;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.Value;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
-@NoArgsConstructor
-@Data
-@Component
-public class Cliente {
 
+
+@Component
+@Primary
+public class Cliente {
     //Atributos
-    private String nombre="Pepe";
-    private String NIF="85823456F";
+    @Value("Federico")
+    private String nombre;
+    @Value("55463331H")
+    private String NIF;
 }

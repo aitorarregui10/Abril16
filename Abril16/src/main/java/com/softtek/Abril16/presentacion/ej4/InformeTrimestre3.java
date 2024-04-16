@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 @NoArgsConstructor
 @Component
-
 public class InformeTrimestre3 implements Informe {
     @Override
     public String getInforme() {

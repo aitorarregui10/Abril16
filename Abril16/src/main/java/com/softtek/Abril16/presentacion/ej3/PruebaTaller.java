@@ -1,6 +1,5 @@
 package com.softtek.Abril16.presentacion.ej3;
 
-import com.softtek.Abril16.presentacion.ej2.Conductor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class AccesoProduccion implements IDAO {
     @Override
-    public String insertar(Cliente cliente1) {
+    public Cliente insertar(Cliente cliente1) {
         return null;
     }
 }
